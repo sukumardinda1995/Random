@@ -11,6 +11,12 @@ git remote add origin https://github.com/sukumardinda1995/Ontimetravel.git
 git pull
 git push -f origin master
 =========================================
+Update
+-------
+git add .
+git commit -m "my changes" 
+git remote add origin https://github.com/zinmyoswe/React-and-Django-Ecommerce.git
+git push -u origin master
 
 
 
