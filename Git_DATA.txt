@@ -1,6 +1,7 @@
-git clone https://github.com/sukumardinda1995/Ontimetravel
+git clone (url)(Download)
 ==============================================
-rm -rf .git*
+add new project to git
+rm -rf .git* -(remove git files from the project)
 project folder
 git init
 git add .
