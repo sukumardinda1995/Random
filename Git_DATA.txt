@@ -8,7 +8,6 @@ git add .
 git status
 git commit -m "First commit new project"
 git remote add origin https://github.com/sukumardinda1995/Ontimetravel.git
-git pull
 git push -f origin master
 =========================================
 Update
